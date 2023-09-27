@@ -11,6 +11,7 @@
     "@line/liff": "^2.22.3",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
+    "vue-router": "^4.2.5",
     "vuetify": "^3.3.19"
   },
   "devDependencies": {
